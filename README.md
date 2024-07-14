@@ -1,4 +1,4 @@
-![Banner](https://github.com/Xeschozz/Xeschozz/blob/main/GitHub%20Banner.png)
+![Banner](https://github.com/Xeschozz/Xeschozz/blob/main/Images/GitHub%20Banner.png)
 
 ---
 
