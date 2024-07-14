@@ -23,10 +23,10 @@ If you're passionate about coding, game development, or simply want to connect w
 ---
 
 ## ⚙ My Stats:
-<div align = "center"> 
+<div align = "center">
 
-![Xeschozz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xeschozz&theme=radical&hide_border=true)
-![Xeschozz's Stats](https://github-readme-stats.vercel.app/api?username=Xeschozz&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Xeschozz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xeschozz&theme=radical&hide_border=true)<br>
+![Xeschozz's Stats](https://github-readme-stats.vercel.app/api?username=Xeschozz&theme=radical&show_icons=true&hide_border=true&count_private=true)<br>
 ![Xeschozz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeschozz&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 </div>
@@ -34,7 +34,7 @@ If you're passionate about coding, game development, or simply want to connect w
 ## 🔼 Top Contributed Repo:
 <div align = "center">
   
-![](https://github-contributor-stats.vercel.app/api?username=Xeschozz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Xeschozz&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
 
 </div>
 
