@@ -21,3 +21,37 @@ The ever-evolving landscape of technology motivates me to be a perpetual learner
 If you're passionate about coding, game development, or simply want to connect with a like-minded individual, feel free to reach out. Collaboration sparks creativity, and I'm always excited about the prospect of working together on intriguing projects.
 
 ---
+
+## ⚙ My Stats:
+<div align = "center"> 
+
+![Xeschozz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xeschozz&theme=radical&hide_border=true)
+![Xeschozz's Stats](https://github-readme-stats.vercel.app/api?username=Xeschozz&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Xeschozz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeschozz&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+## 🔼 Top Contributed Repo:
+<div align = "center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=Xeschozz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
+
+## 🏆 My Trophies:
+<div align = "center">
+  
+![](https://github-profile-trophy.vercel.app/?username=Xeschozz&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+## ✍ Dev Quote:
+<div align = "center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Xeschozz&icon=2&color=12)](https://visitcount.itsvg.in)
