@@ -3,7 +3,7 @@
 ---
 
 # 💫 About Me:
-Greetings! I'm Xeschozz, a dedicated coder who finds joy in crafting solutions through the art of coding. With 3 years of hands-on experience in Python, I've delved deep into the language, consistently seeking new challenges to broaden my expertise.<br>
+Greetings! I'm **Xeschozz**, a dedicated coder who finds joy in crafting solutions through the art of coding. With 3 years of hands-on experience in Python, I've delved deep into the language, consistently seeking new challenges to broaden my expertise.<br>
 
 #### ➪ What Drives Me
 I thrive on the thrill of problem-solving and the satisfaction of creating efficient and scalable solutions. My coding journey is an ongoing learning experience, and I am always on the lookout for new technologies and methodologies to enhance my skills.<br>
