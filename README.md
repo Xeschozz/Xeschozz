@@ -34,6 +34,15 @@ If you're passionate about coding, game development, or simply want to connect w
 
 </div>
 
+## 🧰 Mastered Tools:
+<div align = "center">
+
+<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Tools/Python.png" alt="Python" width="50"/>
+<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Tools/MySQL.png" alt="MySQL" width="100"/>
+<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Tools/Ubuntu.png" alt="Ubuntu" width="50"/>
+
+</div>
+
 ---
 
 ## ⚙ My Stats:
