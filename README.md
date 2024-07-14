@@ -30,6 +30,7 @@ If you're passionate about coding, game development, or simply want to connect w
 [<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Twitter.jpg" alt="X" width="50"/>](https://x.com/xeschozz)
 [<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/YouTube.png" alt="YouTube" width="50"/>](https://www.youtube.com/@xeschozz)
 [<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Reddit.png" alt="Reddit" width="50"/>](https://www.reddit.com/user/Xeschozz/)
+[<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/StackOverflow.png" alt="StackOverflow" width="50"/>](https://stackoverflow.com/users/24867807/xeschozz?tab=profile)
 
 </div>
 
