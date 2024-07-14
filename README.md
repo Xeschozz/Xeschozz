@@ -24,7 +24,9 @@ If you're passionate about coding, game development, or simply want to connect w
 
 ## 🔗 Social Media:
 [<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Instagram.png" alt="Instagram" width="50"/>](https://www.instagram.com/xeschozz/)
-[<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Twitter.jpg" alt="Instagram" width="50"/>](https://x.com/xeschozz)
+[<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Facebook.png" alt="Facebook" width="50"/>](https://www.facebook.com/profile.php?id=100095121948273)
+[<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Twitter.jpg" alt="X" width="50"/>](https://x.com/xeschozz)
+[<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Reddit.jpg" alt="Reddit" width="50"/>](https://www.reddit.com/user/Xeschozz/)
 
 ---
 
