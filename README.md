@@ -22,6 +22,12 @@ If you're passionate about coding, game development, or simply want to connect w
 
 ---
 
+## 🔗 Social Media:
+[<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Instagram.png" alt="Instagram" width="50"/>](https://www.instagram.com/xeschozz/)
+[<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Twitter.jpg" alt="Instagram" width="50"/>](https://x.com/xeschozz)
+
+---
+
 ## ⚙ My Stats:
 <div align = "center">
 
