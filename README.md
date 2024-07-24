@@ -28,7 +28,7 @@ If you're passionate about coding, game development, or simply want to connect w
 [<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Social-Media/Instagram.png" alt="Instagram" width="50"/>](https://www.instagram.com/xeschozz/)
 [<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Social-Media/Facebook.png" alt="Facebook" width="50"/>](https://www.facebook.com/profile.php?id=100095121948273)
 [<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Social-Media/Twitter.jpg" alt="X" width="50"/>](https://x.com/xeschozz)
-
+[<img src="https://github.com/Xeschozz/Xeschozz/blob/main/Logo/Social-Media/LinkedIn.png" alt="X" width="50"/>](https://www.linkedin.com/in/aaravmalikofficial/)
 </div>
 
 ## 🧰 Mastered Tools:
